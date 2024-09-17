@@ -77,7 +77,7 @@ Files contained:
 
 Example of a send/receive interaction (ping/pong).
 
-![](Img/ping-pong.png)
+![](ping-pong.png)
 
 
 ## Experimental
